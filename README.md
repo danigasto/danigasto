@@ -1,6 +1,6 @@
-## Hi there 👋, I'm [Tu Nombre]
+## Hi there 👋, I'm [Dani]
 
-![Banner](https://your-image-url.com/banner.png)
+![Banner](https://your-image-url.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQE3_9Yq_XOZ2g/profile-displaybackgroundimage-shrink_350_1400/B4DZatZ7aeG4Ac-/0/1746665978177?e=1752710400&v=beta&t=fL8c4VX7SX5jMoI9LYzxDtQtQ3a-reQwrM2hBWO5quc)
 
 ### 🎨 Diseñadora Gráfica | UX/UI | IA 🚀
 
