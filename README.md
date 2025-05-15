@@ -1,6 +1,13 @@
-## Hi there 👋, I'm [Dani]
+## Hola! 👋, Soy Dani Gastó
 
-![Banner](https://your-image-url.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQE3_9Yq_XOZ2g/profile-displaybackgroundimage-shrink_350_1400/B4DZatZ7aeG4Ac-/0/1746665978177?e=1752710400&v=beta&t=fL8c4VX7SX5jMoI9LYzxDtQtQ3a-reQwrM2hBWO5quc)
+![Banner]<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGkLtOzBCs/b5PcaUYJUMQplH7VhOIg4Q/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGkLtOzBCs&#x2F;b5PcaUYJUMQplH7VhOIg4Q&#x2F;view?utm_content=DAGkLtOzBCs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Banner</a> de Daniela Mariel Gastó
 
 ### 🎨 Diseñadora Gráfica | UX/UI | IA 🚀
 
